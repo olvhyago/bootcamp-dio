@@ -1,0 +1,16 @@
+Link para download do Git: https://git-scm.com/download/win
+
+Git bash > Terminal extendido para otimizar o uso do Git
+
+Alguns comandos úteis:
+
+git init > cria um novo subdiretório para a criação de um novo repositório
+
+git clone > clona um repositório já existente
+
+git commit > armazena o conteúdo atual do índice em um novo commit, junto mostra uma mensagem ao usuário sobre a
+alteração que foi feita
+
+git add > utilizado para monitar um arquivo, selecionando esses arquivos modificados para fazer um novo commit deles
+
+git config > edita o nome de usuário e endereço de e-mail que aparecem no github
