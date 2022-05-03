@@ -14,3 +14,5 @@ alteração que foi feita
 git add > utilizado para monitar um arquivo, selecionando esses arquivos modificados para fazer um novo commit deles
 
 git config > edita o nome de usuário e endereço de e-mail que aparecem no github
+
+git push > comando que transfere as alterações do seu repositório local para seu repositório em nuvem
